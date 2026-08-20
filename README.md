@@ -72,3 +72,5 @@ Check out the `python_pam_script/` folder for the initial prototype. It uses Pyt
 
 ---
 *Note: This text, as well as the comments in the driver algorithms, were generated with the assistance of AI during my reverse-engineering process.*
+## Для русскоязычных пользователей
+Если у вас не работает сканер отпечатков пальцев ElanTech 04f3:0c4f в Linux (Ubuntu, Fedora, Mint) и стандартный драйвер libfprint выдает ошибку, этот репозиторий поможет решить проблему.
